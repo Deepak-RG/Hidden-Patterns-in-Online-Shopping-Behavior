@@ -1,2 +1,27 @@
-# Hidden-Patterns-in-Online-Shopping-Behavior
-Built market basket analysis using Apriori algorithm, Discovered product associations and seasonal trends, Developed Power BI dashboard for business insights
+#  Hidden Patterns in Online Shopping Behavior
+
+##  Project Overview
+This project analyzes e-commerce transaction data to uncover hidden purchasing patterns using Market Basket Analysis.
+
+##  Key Features
+- Data Cleaning & Preprocessing (Python, Pandas)
+- Exploratory Data Analysis (EDA)
+- Market Basket Analysis using Apriori Algorithm
+- Association Rule Mining (Lift, Confidence)
+- Interactive Dashboard in Power BI
+
+##  Tools Used
+- Python (Pandas, Matplotlib, mlxtend)
+- Power BI
+
+##  Key Insights
+- Identified frequently bought product combinations
+- Detected seasonal sales trends
+- Provided cross-selling recommendations
+
+##  Dataset
+Online Retail Dataset (Kaggle)
+
+##  Dashboard Preview
+<img width="955" height="510" alt="Screenshot 2026-04-26 192948" src="https://github.com/user-attachments/assets/cdfa388f-453f-411f-a437-1e38cadbaf25" />
+
