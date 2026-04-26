@@ -23,5 +23,6 @@ This project analyzes e-commerce transaction data to uncover hidden purchasing p
 Online Retail Dataset (Kaggle)
 
 ##  Dashboard Preview
-<img width="2048" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/083ef64c-a498-4504-9b68-8cee9bda8ffc" />
+<img width="2048" height="1080" alt="Screenshot 2026-04-26 194127" src="https://github.com/user-attachments/assets/535ff008-4694-4f9a-8277-2d6d57a4b0bd" />
+
 
